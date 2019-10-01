@@ -1,11 +1,21 @@
-print("This is a print statement")
-print ("What's wrong with this statement?")
-print ("print How about this one?") 
-print (5)
-print (3.14)
-print ("Here are the ages of my three children: ", 12, 7, 4)
-greeting = "Hello world!"
-print ("greeting")
-length = 16
-width = 20
-print("The dimensions of the yard are", length,"by", width)
+print ("Kevin the Wang")
+print ("first line \nsecond line")
+print ("Kevin the wang so smart \ntoo good at coding")
+print ("Hello there")
+print ("My favourite colour is ramen")
+print ("(\___/) \n \* */ \n  \ / \n   o") 
+print (12345//10)
+print (12345//100)
+print (12345//1000)
+print (12345 % 10)
+print (12345 % 100)
+print (12345 % 1000)
+print (((5+30)*20)//10)
+print ("Delightful"*1000)
+name = input("Enter your name")
+print ("Hello" + name )
+mark = 79
+raptor_pass = input("How many points to add for the raptors")
+mark = mark + raptor_pass
+print ("mark:", mark) 
+print("first column/")

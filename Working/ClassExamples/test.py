@@ -1,3 +1,2 @@
-print("this is a test")st
-print("another test")
-print("third test")
+f = input("what is the temperture")
+temperture = c =5/9
